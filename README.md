@@ -26,10 +26,10 @@ The above graph takes a closer look at the fares by city type across the beginni
 
 Based on the analysis, the following actions items are recommended for Executive Leadership:
 
-	-Recommend increasing the number of drivers in rural cities- offer promotion for hires or employee referral programs.  Rural cities fewer drivers available may be a contributing factor toward longer wait times, poor customer accessibility, and lower cumulative fares.
+-Recommend increasing the number of drivers in rural cities- offer promotion for hires or employee referral programs.  Rural cities fewer drivers available may be a contributing factor toward longer wait times, poor customer accessibility, and lower cumulative fares.
 
-	-Recommend placing controls in Urban city markets where there were more drivers than rides in this review period.  Limiting the drivers would raise both the average fare per ride and per driver; but it would be important to strike the right balance of maintaining a strong base of drivers to service the customers and without tipping the scales of 'too many drivers' again. 
+-Recommend placing controls in Urban city markets where there were more drivers than rides in this review period.  Limiting the drivers would raise both the average fare per ride and per driver; but it would be important to strike the right balance of maintaining a strong base of drivers to service the customers and without tipping the scales of 'too many drivers' again. 
 
-	-Recommend and increase of fares in Urban cities. This would increase revenue for PyBer, enabling the possibility for a shift in resources that would allow for fares to be potentially be lowered in Rural and Suburban cities; increasing PyBer's accessibility. 
+-Recommend and increase of fares in Urban cities. This would increase revenue for PyBer, enabling the possibility for a shift in resources that would allow for fares to be potentially be lowered in Rural and Suburban cities; increasing PyBer's accessibility. 
 
 	
