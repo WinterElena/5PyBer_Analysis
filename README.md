@@ -6,7 +6,7 @@ Omar and I have been hard at work exploring the massive amount of data available
 
 ## Results
 
-Looking at the overview from the ridesharing DataFrame below, the most profitable type of city for ridesharing for PyBer is the urban cities *($39,854.38)*, followed by surburban cities *($19,356.33)*, and the least profitable area is rural cities *($4,327.93)*. The opposite is true for the profitability for drivers, however, with rural being the most profitable based on the average fare per driver *($55.49)*. Followed by Suburban average fares per driver coming in at *($39.50)* and urban average fares per driver at *($16.57)*.
+Looking at the overview from the ridesharing DataFrame below, the most profitable type of city for ridesharing for PyBer is the urban cities *($39,854.38)*, followed by suburban cities *($19,356.33)*, and the least profitable area is rural cities *($4,327.93)*. The opposite is true for the profitability for drivers, however, with rural being the most profitable based on the average fare per driver *($55.49)*. Followed by Suburban average fares per driver coming in at *($39.50)* and urban average fares per driver at *($16.57)*.
 
 ![dataframe](images/dataframe.PNG)
 
